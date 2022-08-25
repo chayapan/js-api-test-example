@@ -1,9 +1,11 @@
 # Test Javascript Code
 
+These links got me started.
 
+1. https://www.youtube.com/watch?v=Jv2uxzhPFl4  
 2. https://www.makeuseof.com/express-apis-jest-test/
 
-
+Add type hints in VSCode.
 ```npm install @types/jest --save-dev```
 
 
