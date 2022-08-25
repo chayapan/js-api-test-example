@@ -4,7 +4,6 @@ const crypto = require('crypto');
 const request = require("supertest")
 const baseURL = "http://localhost:3000"
 
-
 describe("GET /todos", () => {
     const newTodo = {
       "id": crypto.randomUUID(),
